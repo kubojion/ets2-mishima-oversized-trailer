@@ -1,0 +1,7 @@
+# Keep only the public lowbed package; exclude other archives.
+*.scs
+!mishima_lowbed_16w.scs
+*.zip
+*.log
+Thumbs.db
+.DS_Store

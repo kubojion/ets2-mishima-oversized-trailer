@@ -1,0 +1,25 @@
+Mishima oversized trailer / 低床１６輪
+
+Original trailer: MASAKICCI / MISHIMA Garage
+Updates and packaging: kubojion, with Codex assistance
+Referenced game and DLC assets: SCS Software
+Optional Number Plate Reborn: MASAKICCI and kuramochia
+
+Based on Mishima trailer ownership 3.6.6:
+https://steamcommunity.com/groups/m_garage/discussions/0/1735462352476466318/
+
+Mishima's modification and redistribution policy:
+https://steamcommunity.com/groups/m_garage
+
+The author permits reasonable redistribution of modified versions without
+requesting permission, asks that other contributors' policies be respected,
+and does not provide support for modified versions.
+
+Original assets retain their authors' rights. This is an unofficial update;
+it does not grant a new licence over third-party assets.
+
+Number Plate Reborn is a separate, optional download and is not bundled:
+https://gist.github.com/kuramochia/9d98537c51f1700f8e8e79b392733d87
+
+Support for this version:
+https://github.com/kubojion/ets2-mishima-oversized-trailer/issues
